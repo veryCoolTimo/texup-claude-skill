@@ -1,0 +1,20 @@
+{
+  "name": "texup-skill",
+  "description": "Drive texup — a local AI texture remaster tool for old games — conversationally. Scans a game folder, classifies and upscales textures, packs them back, with backup and rollback. No terminal knowledge needed.",
+  "version": "1.0.0",
+  "author": {
+    "name": "veryCoolTimo",
+    "email": "timofeigrm@gmail.com"
+  },
+  "homepage": "https://github.com/veryCoolTimo/texup-skill",
+  "repository": "https://github.com/veryCoolTimo/texup-skill",
+  "license": "MIT",
+  "keywords": [
+    "skills",
+    "claude-code",
+    "texture-upscaling",
+    "game-modding",
+    "esrgan",
+    "remaster"
+  ]
+}
