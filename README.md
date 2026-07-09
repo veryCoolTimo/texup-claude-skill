@@ -5,7 +5,7 @@ Claude Code skill that drives [**texup**](https://github.com/veryCoolTimo/textur
 ## Install
 
 ```
-/plugin marketplace add veryCoolTimo/texup-skill
+/plugin marketplace add veryCoolTimo/texup-claude-skill
 /plugin install texup-skill@texup
 ```
 
