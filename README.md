@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.webp" alt="texup — a Claude Code skill for AI texture remastering" width="100%">
+</p>
+
 # texup-skill
 
 Claude Code skill that drives [**texup**](https://github.com/veryCoolTimo/texture-auto-upscaler) — a local AI texture remaster tool for old games — conversationally. No terminal knowledge needed: install the skill and just say *"remaster the textures in my game."* Claude scans the game folder, shows you before/after comparison sheets, upscales with a quality preset, and applies into the game with backup and rollback — asking for your approval before anything touches the game.
